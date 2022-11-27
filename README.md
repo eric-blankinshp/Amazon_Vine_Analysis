@@ -31,7 +31,7 @@ A [second filter](https://github.com/Mishkanian/Amazon_Vine_Analysis/blob/main/R
 
 ![second filter](https://github.com/eric-blankinshp/Amazon_Vine_Analysis_AWS/blob/main/Images/helpful_votes_filter2.png)
 
-Finally, two more DataFrames are created to separate Filter #2 between reviews written as [part of the Vine program (paid)](https://github.com/eric-blankinshp/Amazon_Vine_Analysis_AWS/blob/main/Images/yes_vine_df.png)and reviews [not part of the Vine program (unapid)](https://github.com/eric-blankinshp/Amazon_Vine_Analysis_AWS/blob/main/Images/no_vine_df.png). After creating these final DataFrames, the following metrics are determined:
+Finally, two more DataFrames are created to separate Filter #2 between reviews written as [part of the Vine program (paid)](https://github.com/eric-blankinshp/Amazon_Vine_Analysis_AWS/blob/main/Images/yes_vine_df.png) and reviews [not part of the Vine program (unapid)](https://github.com/eric-blankinshp/Amazon_Vine_Analysis_AWS/blob/main/Images/no_vine_df.png). After creating these final DataFrames, the following metrics are determined:
 - The total number of reviews.
 - The number of 5-star reviews.
 - The percentage of 5-star reviews (Paid and Unpaid).
